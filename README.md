@@ -8,6 +8,8 @@
 
 [![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique96&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+Como entrar em contato comigo: 📫 matheus_pviana@hotmail.com
+
 ### Tecnologias que eu utilizo:
 
 <div style="display: inline-block">
