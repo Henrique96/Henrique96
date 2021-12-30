@@ -1,4 +1,4 @@
-### Oii, meu nome é Matheus Henrique 👋
+### Oi, meu nome é Matheus Henrique 👋
 
 <div style="display: flex">
     <a href="https://wa.me/5551985618337">
