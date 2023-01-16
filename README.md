@@ -11,7 +11,7 @@
       <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div> <br> <br>
   
-[![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique96&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique96&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 E-mail: 📫 matheus_pviana@hotmail.com
 
@@ -29,4 +29,4 @@ E-mail: 📫 matheus_pviana@hotmail.com
 </div> <br>
 
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique96&theme=blue-green)
+<!-- ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique96&theme=blue-green) -->
